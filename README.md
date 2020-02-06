@@ -1,6 +1,6 @@
 # Visualization-Statistical-Analysis-Chess-Games
 
-Visualizing data regarding chess matches, which includes the number of wins for Black & White teams, most popular move, top capturers and the frequency of captures per chess piece (heatmap), distribution of moves per team, etc.
+Visualizing data regarding chess matches, which includes the number of wins for Black & White teams, most popular starting move, most active chess board square, top capturers and the frequency of captures per chess piece (heatmap), distribution of moves per team, etc.
 
 Made use of: 
 - Matplotlib 
